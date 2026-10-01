@@ -1,3 +1,4 @@
 #Ignore tracking for these files
 db.sqlite3
-.venv
+.venv/
+__pycache__/
